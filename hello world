@@ -1,3 +1,1 @@
 print("Hello, world!")
-git add hello.py
-git commit -m "Add hello world script"
